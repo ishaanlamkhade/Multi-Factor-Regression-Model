@@ -1,6 +1,6 @@
 # Multi-Factor Regression Model
 
-A small project exploring how much of an asset's return can be explained by well-known systematic risk factors, using the Fama-French 5-factor model plus Momentum (6 factors total). Built while learning quant finance in Python — inspired by [this video](https://www.youtube.com/watch?v=UA0aJJ6P7T0), with a few extra pieces added on top (regression diagnostics, an extra asset for comparison, rolling R²).
+A small project exploring how much of an asset's return can be explained by well-known systematic risk factors, using the Fama-French 5-factor model plus Momentum (6 factors total).
 
 ## Background
 
